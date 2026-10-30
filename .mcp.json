@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "nuelink": {
+      "type": "http",
+      "url": "https://mcp.nuelink.com/mcp"
+    }
+  }
+}

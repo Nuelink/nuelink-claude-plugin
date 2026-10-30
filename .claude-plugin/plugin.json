@@ -1,0 +1,25 @@
+{
+  "name": "nuelink",
+  "displayName": "Nuelink",
+  "version": "1.0.0",
+  "description": "Draft, schedule and track social media posts with Nuelink.",
+  "author": {
+    "name": "Nuelink",
+    "email": "support@nuelink.com",
+    "url": "https://nuelink.com"
+  },
+  "homepage": "https://nuelink.com",
+  "repository": "https://github.com/Nuelink/nuelink-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "social media",
+    "drafts",
+    "scheduling",
+    "publishing"
+  ],
+  "icon": "./assets/nuelink-icon.png",
+  "documentationUrl": "https://docs.nuelink.com/mcp/",
+  "supportUrl": "https://help.nuelink.com",
+  "privacyPolicyUrl": "https://nuelink.com/privacy",
+  "termsOfServiceUrl": "https://nuelink.com/terms"
+}
